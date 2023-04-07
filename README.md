@@ -5,13 +5,12 @@ Bu proje, Patika.dev'in "Front-End Web Development" patikası kapsamında, HTML 
 ## İçindekiler
 * Kullanılan Teknolojiler
 * Yükleme ve Çalıştırma
-* Kullanılan Teknolojiler
+
+## Kullanılan Teknolojiler
 * HTML
-* Yükleme ve Çalıştırma
-### Bu proje, sadece HTML dosyasından oluşmaktadır. İnternet bağlantısı olan herhangi bir cihazda, herhangi bir web tarayıcısı ile açılabilir.
+## Yükleme ve Çalıştırma
+* Bu proje, sadece HTML dosyasından oluşmaktadır. İnternet bağlantısı olan herhangi bir cihazda, herhangi bir web tarayıcısı ile açılabilir.
 
-### Alternatif olarak, bu proje için bir GitHub sayfası oluşturabilirsiniz.
 
-Tunahan Harmancı
 
-Bu örnek sayfayı oluştururken, Patika.dev'in eğitmenleri ve destek ekibi tarafından sağlanan kaliteli eğitim ve desteklerden yararlandım. Teşekkür ederim.
+### Bu örnek sayfayı oluştururken, Patika.dev'in eğitmenleri ve destek ekibi tarafından sağlanan kaliteli eğitim ve desteklerden yararlandım. Teşekkür ederim.
