@@ -1,1 +1,0 @@
-Tunahan harmancı adına web sitesi oluşturuldu.
