@@ -1,7 +1,19 @@
 # Tunahan Harmancı
 
-Hakkımda
+Bu proje, Patika.dev'in "Front-End Web Development" patikası kapsamında, HTML eğitimi için oluşturulan bir örnek sayfadır. Bu sayfada, kendim hakkında kısa bir açıklama, sevdiğim diziler ve kitaplar hakkında bilgiler yer almaktadır.
 
-Tarih bölü'mü mezunu,Ekonomi yüksek lisans eğitimi olan tuhaf bir eğitim geçmişim var. Bunları severek okumuş olsam da, içimde hep 'Bilişim Teknolojileri' alanında çalışma arzusu vardı. Derli toplu kaliteli bir eğitim ararken 'Patika' ile karşılaştım. Aslında 2021 yılında kayıt olmuş olsam da eğitim sürecime ancak başlayabildim. 
-Bu kadar kaliteli ve etkileşimli bir eğitim oluşumuna destek olmuş herkese teşekkür ederim.
+İçindekiler
+Kullanılan Teknolojiler
+Yükleme ve Çalıştırma
+Ekran Görüntüleri
+Kullanılan Teknolojiler
+HTML
+Yükleme ve Çalıştırma
+Bu proje, sadece HTML dosyasından oluşmaktadır. İnternet bağlantısı olan herhangi bir cihazda, herhangi bir web tarayıcısı ile açılabilir.
 
+Alternatif olarak, bu proje için bir GitHub sayfası oluşturabilirsiniz.
+
+Ekran Görüntüleri
+Tunahan Harmancı
+
+Bu örnek sayfayı oluştururken, Patika.dev'in eğitmenleri ve destek ekibi tarafından sağlanan kaliteli eğitim ve desteklerden yararlandım. Teşekkür ederim.
